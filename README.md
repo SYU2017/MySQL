@@ -1,4 +1,4 @@
-#  Week10-MySQL  Assignment
+#  MySQL  Assignment
 
 To download sakila database: https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 
